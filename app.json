@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-project",
-    "slug": "my-project",
+    "name": "nativeexample",
+    "slug": "nativeexample",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
